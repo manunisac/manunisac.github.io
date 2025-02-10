@@ -1,0 +1,47 @@
+---
+title: About Us
+layout: default
+---
+
+<main role="main">
+  <div class="container">
+    {% include title-section.html %}
+
+    <div class="bg-white">
+      {% for person in site.data.team.team %}
+      <div class="row person-blurb">
+        <div class="col-md-2">
+          <div class="mb-2 text-center">
+            <i class="fa fa-6x {{ person.icon }}"></i>
+          </div>
+        </div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-md-12">
+              <h3>{{ person.name }}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-8">
+              <p class="text-muted no-margin">{{ person.role }}</p>
+            </div>
+            <div class="col-md-4">
+              <p class="text-muted no-margin">{{ person.course }}</p>
+            </div>
+            {% if person.course %}
+            <div class="col-md-8">
+              <p class="text-muted no-margin">{{ person.qualifications }}</p>
+            </div>
+            {% endif %}
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <p>{{ person.description | markdownify }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</main>

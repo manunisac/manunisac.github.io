@@ -1,0 +1,38 @@
+---
+title: Frequently Asked Questions
+layout: default
+---
+
+<main role="main">
+  <div class="container">
+    {% include title-section.html %}
+
+    <div class="bg-white">
+      <div class="row">
+        <div class="col-12">
+          <h2>Questions</h2>
+          <ol>
+            {% for question in site.data.faq.questions %}
+              <li>
+                <a href="#{{ question.id }}">{{ question.question }}</a>
+              </li>
+            {% endfor %}
+          </ol>
+          <br />
+
+          <h2>Answers</h2>
+
+          {% for question in site.data.faq.questions %}
+            <a name="{{ question.id }}"></a>
+            <h3>{{ question.question }}</h3>
+            <p>{{ question.answer | markdownify }}</p>
+            <p class="float-center">
+              <a href="#">Back to top</a>
+            </p>
+            <br />
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

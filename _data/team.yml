@@ -1,0 +1,71 @@
+team:
+  - name: "Catherine Smith"
+    icon: "fa-user"
+    role: "Chair"
+    qualifications: "Open Water Instructor, Dive Leader"
+    course: "Maritime History"
+    description: |
+      Catherine does most of the organising and planning and keeps us all in check.
+
+  - name: "Rhys Burrell"
+    icon: "fa-user"
+    role: "Vice Chair"
+    qualifications: "Open Water Instructor, Advanced Diver"
+    course: "Biology"
+    description: |
+      Rhys does some of Cat's jobs when she's not around.
+
+  - name: "Lara Delhez"
+    icon: "fa-user"
+    role: "Secretary"
+    qualifications: "PADI Open Water Diver"
+    course: "Student"
+    description: |
+      Lara makes sure that committee meetings are minuted and that members' details are up to date.
+
+  - name: "Peter Shone"
+    icon: "fa-user"
+    role: "Diving Officer"
+    qualifications: "Assistant Advanced Instructor, Advanced Diver"
+    course: "Geophysics"
+    description: |
+      Peter is responsible for the safety and training standards of the club.
+
+  - name: "Jordan Giannasi"
+    icon: "fa-user"
+    role: "Funding Officer"
+    qualifications: "Ocean Diver"
+    course: ""
+    description: |
+      Jordan is responsible for making sure our kit is serviced and ready for action.
+
+  - name: "Cameron Mobley"
+    icon: "fa-user"
+    role: "Funding Officer"
+    qualifications: "Ocean Diver Trainee"
+    course: "Spanish and International Relations"
+    description: |
+      Cameron makes sure the club is well funded and that we have the equipment we need to run training and trips.
+
+  - name: "Meg Taylor"
+    icon: "fa-user"
+    role: "Welfare Officer"
+    qualifications: "Ocean Diver"
+    course: ""
+    description: |
+      Meg is responsible for the welfare of all members.
+
+  - name: "Drew Morgan"
+    icon: "fa-user"
+    role: "Training Officer"
+    qualifications: "Open Water Instructor, Dive Leader"
+    course: "Computer Science"
+    description: |
+      Drew works with the diving officer to ensure that training goes smoothly.
+
+  - name: "Tom Ashdown"
+    icon: "fa-user"
+    role: "Social and Social Media Officer"
+    qualifications: "Ocean Diver"
+    description: |
+      Tom is responsible for organising socials and keeping our social media up to date.
