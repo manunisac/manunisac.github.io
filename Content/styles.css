@@ -33,6 +33,10 @@ h3 {
   color: rgb(35, 57, 140);
 }
 
+hr {
+  margin-bottom: 2em;
+}
+
 a {
   /* color: rgb(52, 165, 218) !important; */
   color: rgb(35, 57, 140) !important;

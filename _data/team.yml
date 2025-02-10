@@ -19,7 +19,7 @@ team:
     icon: "fa-user"
     role: "Secretary"
     qualifications: "PADI Open Water Diver"
-    course: "Student"
+    course: ""
     description: |
       Lara makes sure that committee meetings are minuted and that members' details are up to date.
 
@@ -35,9 +35,10 @@ team:
     icon: "fa-user"
     role: "Equipment Officer"
     qualifications: "Ocean Diver"
-    course: ""
+    course: "Biochemistry"
     description: |
       Jordan is responsible for making sure our kit is serviced and ready for action.
+      Originally from Kent, Jordan was one of MUSAC's first members to qualify in 2024/25.
 
   - name: "Cameron Mobley"
     icon: "fa-user"
@@ -61,6 +62,8 @@ team:
     course: "Computer Science"
     description: |
       Drew works with the diving officer to ensure that training goes smoothly.
+      Drew was born and raised in Wolverhampton and learned to dive in Thailand with a friend who would
+      eventually become his best man. He has been diving for 10 years and has been a member of MUSAC for 5 years.
 
   - name: "Meg Taylor"
     icon: "fa-user"
