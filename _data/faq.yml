@@ -1,10 +1,73 @@
 questions:
-  - id: "not-bsac-can-i-attend"
+  - id: "who-can-join"
+    question: "Who can join MUSAC?"
+    answer: |
+      All Manchester University students are eligible to join MUSAC, regardless of age, course, or previous experience.
+      We welcome divers of all levels, from complete beginners to experienced divers. Non-students are welcome to apply,
+      but priority will be given to students.
+
+  - id: "how-do-i-join"
     question: "How do I join MUSAC?"
     answer: |
-      Contact someone at MUSAC to get started. You can find contact details on the [MUSAC website](https://musac.org.uk/).
+      Contact someone at MUSAC to get started or, if you're a current UoM student, join
+      [here](https://manchesterstudentsunion.com/activities/view/sub_aqua).
+
+  - id: "is-diving-safe"
+    question: "Is diving safe?"
+    answer: |
+      Diving is a safe sport when practised correctly. MUSAC follows the British Sub-Aqua Club (BSAC) guidelines and
+      standards to ensure the safety of our members. All our instructors are qualified to teach diving and have
+      undergone rigorous training to ensure they can provide a safe and enjoyable experience for all divers.
+
+  - id: "can-i-try-it-out"
+    question: "I’m interested but not sure if diving is for me. Can I try it out first?"
+    answer: |
+      Absolutely! We run try-dives at the start of each semester, where you can experience scuba diving in a safe and controlled
+      environment. Keep an eye on our [Facebook](https://facebook.com/MUSACDiving/) or
+      [Instagram](https://www.instagram.com/musac.uk/) pages for more information, or check the [calendar](/calendar) for upcoming events.
+
+  - id: "do-i-need-my-own-gear"
+    question: "Do I need my own scuba gear?"
+    answer: |
+      Not necessarily. MUSAC has a range of club equipment available for members to use including masks, fins, regulators,
+      BCDs, and cylinders. However, we rent drysuits from dive shops in and around Manchester and it is incumbent on you to
+      ensure that these fit and hold air before you dive in them. If you're not sure how to do that, instructors can accompany
+      you the first time you rent a drysuit.
+
+  - id: "can-i-dive-with-padi-ssi"
+    question: "I have a PADI/SSI certification. Can I still dive with MUSAC?"
+    answer: |
+      Yes, you can. MUSAC is a BSAC club, but we welcome divers from all agencies. You can find your equivalent BSAC grade
+      [here](https://www.bsac.com/already-a-diver/equivalent-bsac-qualifications/).
+
+  - id: "do-you-run-dive-trips"
+    question: "Do you run dive trips and how much do they cost?"
+    answer: |
+      Yes, we run dive trips throughout the year. The cost of each trip varies depending on the location, duration, and
+      accommodation. We aim to keep costs as low as possible for our members. For more information, please contact the
+      diving officer or training officer or check out the [calendar](/calendar) for upcoming events.
+
+  - id: "where-do-you-dive"
+    question: "Where do you dive?"
+    answer: |
+      We dive in a variety of locations, including quarries, lakes, and the sea. Our most popular inland dive sites
+      include [Capernwray](https://www.dive-site.co.uk/) and [Stoney Cove](https://www.stoneycove.com/), but we have
+      previously organised trips to Anglesey and coastal sites around the north of England. We also occasionally run
+      trips abroad.
 
   - id: "how-do-i-get-signed-off"
     question: "How do I get signed off in my logbook for the sessions I've attended?"
     answer: |
       At the end of each training session, contact your instructor and/or the diving officer to ensure your lesson has been recorded.
+
+  - id: "do-i-have-to-be-a-diver"
+    question: "Do I have to be a diver to attend social events?"
+    answer: |
+      No, you don't have to be a diver to attend our social events. We welcome all members, divers and non-divers alike.
+
+  - id: "who-do-i-contact"
+    question: "Who do I contact if I have more questions?"
+    answer: |
+      Anyone in the committee can answer questions, but the chair and vice chair are usually the best people to contact.
+      If you don't have their contact details, you can forward your questions via [Facebook](https://facebook.com/MUSACDiving/)
+      or [Instagram](https://www.instagram.com/musac.uk/).
