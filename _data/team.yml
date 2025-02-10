@@ -62,8 +62,8 @@ team:
     course: "Computer Science"
     description: |
       Drew works with the diving officer to ensure that training goes smoothly.
-      Drew was born and raised in Wolverhampton and learned to dive in Thailand with a friend who would
-      eventually become his best man. He has been diving for 10 years and has been a member of MUSAC for 5 years.
+      Drew learned to dive in Thailand with a friend who would eventually become his best man.
+      He has been diving for 10 years and has been a member of MUSAC for 5 years.
 
   - name: "Meg Taylor"
     icon: "fa-user"
